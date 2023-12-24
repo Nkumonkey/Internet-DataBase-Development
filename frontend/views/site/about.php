@@ -129,7 +129,7 @@ $teamers = \common\models\TeamMember::findAll(['captain' => 0]);
         <div class="container">
             <div class="row justify-content-center">
                 <div class="col-md-4">
-                    <a href="https://github.com/HYX20011209/webDB"
+                    <a href="https://github.com/Nkumonkey/Internet-DataBase-Development"
                        class="btn btn-primary btn-block">为我们的团队贡献代码</a>
                 </div>
             </div>

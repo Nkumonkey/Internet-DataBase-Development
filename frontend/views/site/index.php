@@ -2,8 +2,8 @@
 
 
 /*
- * Team：互联网团队
- * Coding By：王荣熙、李新
+ * Team：EW_WAR
+ * Coding By：薛家琪、丁延峰
  * 主页面(前台)
 */
 
@@ -385,10 +385,10 @@ $element_9 = \common\models\element::findOne(['name' => '镍-63']);
                 <div class="widget">
                     <h3>相关网站</h3>
                     <ul class="nav-link">
-                        <li><a href="http://www.google.com">去谷歌搜索</a></li>
-                        <li><a href="https://www.zhihu.com/">去知乎搜索</a></li>
-                        <li><a href="https://www.baidu.com/">去百度搜索</a></li>
-                        <li><a href="https://mil.news.sina.com.cn/">新浪军事</a></li>
+                        <li><a href="http://japan.people.com.cn/n1/2023/0912/c35421-40075768.html">人民网日本报道</a></li>
+                        <li><a href="https://www.thepaper.cn/newsDetail_forward_24348391">澎拜新闻</a></li>
+                        <li><a href="https://baike.baidu.com/item/%E6%97%A5%E6%9C%AC%E7%A6%8F%E5%B2%9B%E6%A0%B8%E6%B1%A1%E6%B0%B4%E5%85%A5%E6%B5%B7%E8%AE%A1%E5%88%92/56707271">日本福岛核污水入海计划</a></li>
+                        <li><a href="https://finance.sina.com.cn/jjxw/2023-11-03/doc-imzthyww3969657.shtml?cref=cj">新浪财经</a></li>
                     </ul>
                 </div>
                 <!-- END: .widget -->

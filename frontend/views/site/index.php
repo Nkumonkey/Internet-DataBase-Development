@@ -2,8 +2,8 @@
 
 
 /*
- * Team：EW_WAR
- * Coding By：薛家琪、丁延峰
+ * Team：互联网团队
+ * Coding By：王荣熙、李新
  * 主页面(前台)
 */
 
@@ -13,7 +13,6 @@ use yii\helpers\Url;
 use yii\widgets\LinkPager;
 $cnt = 2;
 
-//难民数据
 $element_1 = \common\models\element::findOne(['name' => '锶-90']);
 $element_2 = \common\models\element::findOne(['name' => '锑-124']);
 $element_3 = \common\models\element::findOne(['name' => '钴-60']);
